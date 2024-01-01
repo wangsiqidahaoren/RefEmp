@@ -12,4 +12,4 @@ questionnaire.csv
 
 # How to Use the Refactoring Commits Data
 1. Unzip the compression bags
-2. 
+2. Change "target_type" in "ref_filter.py" to the refactoring operation type you want.
